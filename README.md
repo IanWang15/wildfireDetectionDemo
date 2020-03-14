@@ -3,7 +3,7 @@ This demo is used to predict and detect wildfire using weather reanalysis data a
 
 ## Problem
 
-Develop wildfire warning and detection system demo using python, SQL, arcGIS under Linux.
+Develop wildfire warning and detection system demo using python, SQL, ArcGIS on Linux.
 
 This demo has the following functions:
 
